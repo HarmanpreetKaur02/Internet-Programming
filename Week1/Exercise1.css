@@ -1,0 +1,25 @@
+body{
+  padding: 0;
+  margin: 0;
+  background-color: lightpink;
+  height: 500px;
+}
+
+h1{
+  font-family: sans-serif;
+}
+
+.description li{
+  font-style: italic;
+  font-family: serif;
+}
+
+.description_this li{
+  font-style: normal;
+  font-family: sans-serif;
+  color: rebeccapurple;
+}
+
+p{
+  font-weight: lighter;
+}
