@@ -1,0 +1,33 @@
+
+body{
+  margin: 0;
+}
+
+.csym019{
+  background-color: lightblue;
+  width: 48%;
+  float: left;
+}
+
+.csym015{
+  background-color: yellow;
+  width: 48%;
+  float: left;
+}
+
+.csym025{
+  background-color: pink;
+  width: 48%;
+  float: left;
+}
+
+.csym017{
+  background-color: plum;
+  width: 48%;
+  float: left;
+}
+
+section{
+  padding: 0.5em;
+  border: 2px solid black;
+}
