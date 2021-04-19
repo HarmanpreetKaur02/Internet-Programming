@@ -1,0 +1,21 @@
+h1{
+  padding: 2em 0.5em;
+  color: darkgoldenrod;
+  text-align: center;
+}
+
+p{
+  padding: 0.5em;
+  color: olive;
+  font-size: 2em;
+}
+
+ul{
+  padding: 0.5em 2em;
+  color: olive;
+  font-size: 1.5em;
+}
+
+body{
+  background-color: antiquewhite;
+}
