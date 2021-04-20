@@ -10,7 +10,7 @@ function changeParagraph()
     variableTwo.firstChild.nodeValue = 'This module includes:';
 }
 
-function exerciseSix()
+function clicked()
 {
     var variableOne = document.getElementById('heading');
     variableOne.addEventListener('click', changeHeading);
@@ -20,4 +20,4 @@ function exerciseSix()
 }
 
 alert('Script Loaded');
-document.addEventListener('DOMContentLoaded', exerciseSix)
+document.addEventListener('DOMContentLoaded', clicked)
